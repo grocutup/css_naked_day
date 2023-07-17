@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Docs partial mdformat improvements (#7378)
