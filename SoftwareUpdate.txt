@@ -1,1 +1,1 @@
-update requirements.txt
+ultralytics 8.0.226 Validator Path and Tuner space (#6901)
